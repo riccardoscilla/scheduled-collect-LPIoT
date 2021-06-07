@@ -1,0 +1,40 @@
+[11:24:12 - main] [Cooja.java:1317] [INFO] - > Starting Cooja
+[11:24:13 - main] [Cooja.java:2858] [INFO] - External tools default settings: /external_tools_linux_64.config
+[11:24:13 - main] [Cooja.java:2888] [INFO] - External tools user settings: /home/user/.cooja.user.properties
+[11:24:14 - main] [Simulation.java:422] [INFO] - Simulation random seed: 4292563597082925593
+[11:24:15 - main] [CompileContiki.java:140] [INFO] - > make app.sky TARGET=sky 
+[11:24:15 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Desktop/sched-collect/app.sky
+[11:24:16 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Desktop/sched-collect/app.sky
+[11:24:16 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Desktop/sched-collect/app.sky
+[11:24:16 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Desktop/sched-collect/app.sky
+[11:24:16 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Desktop/sched-collect/app.sky
+[11:24:16 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Desktop/sched-collect/app.sky
+[11:24:16 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Desktop/sched-collect/app.sky
+[11:24:16 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Desktop/sched-collect/app.sky
+[11:24:16 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Desktop/sched-collect/app.sky
+[11:24:17 - main] [Visualizer.java:256] [INFO] - Registered external visualizer: org.contikios.cooja.plugins.skins.DGRMVisualizerSkin
+[11:24:17 - main] [TimeLine.java:567] [INFO] - Zoom level: 20000.0 microseconds/pixel 
+[11:24:20 - main] [ScriptRunner.java:430] [INFO] - Test script deactivated
+[11:24:21 - main] [LogScriptEngine.java:265] [INFO] - Script timeout in 1800000 ms
+[11:24:21 - main] [ScriptRunner.java:387] [INFO] - Test script activated
+[11:24:23 - Thread-3] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1622107463794
+[11:24:35 - Thread-3] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1622107475386	Duration: 11592 ms	Simulated time 14685 ms	Ratio 1.2668219461697723
+[11:24:39 - AWT-EventQueue-1] [TimeLine.java:567] [INFO] - Zoom level: 10000.0 microseconds/pixel 
+[11:24:39 - AWT-EventQueue-1] [TimeLine.java:567] [INFO] - Zoom level: 5000.0 microseconds/pixel 
+[11:24:39 - AWT-EventQueue-1] [TimeLine.java:567] [INFO] - Zoom level: 2000.0 microseconds/pixel 
+[11:24:39 - AWT-EventQueue-1] [TimeLine.java:567] [INFO] - Zoom level: 1000.0 microseconds/pixel 
+[11:24:41 - AWT-EventQueue-1] [TimeLine.java:567] [INFO] - Zoom level: 2000.0 microseconds/pixel 
+[11:24:44 - AWT-EventQueue-1] [TimeLine.java:567] [INFO] - Zoom level: 1000.0 microseconds/pixel 
+[11:24:44 - AWT-EventQueue-1] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[11:24:45 - AWT-EventQueue-1] [TimeLine.java:567] [INFO] - Zoom level: 200.0 microseconds/pixel 
+[11:24:48 - AWT-EventQueue-1] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[11:24:49 - AWT-EventQueue-1] [TimeLine.java:567] [INFO] - Zoom level: 1000.0 microseconds/pixel 
+[11:24:50 - AWT-EventQueue-1] [TimeLine.java:567] [INFO] - Zoom level: 2000.0 microseconds/pixel 
+[11:24:54 - Thread-4] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1622107494801
+[11:25:04 - Thread-4] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1622107504563	Duration: 9762 ms	Simulated time 36232 ms	Ratio 3.711534521614423
+[11:25:05 - AWT-EventQueue-1] [TimeLine.java:567] [INFO] - Zoom level: 1000.0 microseconds/pixel 
+[11:25:05 - AWT-EventQueue-1] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[11:25:08 - AWT-EventQueue-1] [TimeLine.java:567] [INFO] - Zoom level: 1000.0 microseconds/pixel 
+[11:25:09 - AWT-EventQueue-1] [TimeLine.java:567] [INFO] - Zoom level: 2000.0 microseconds/pixel 
+[11:25:12 - Thread-2] [LogScriptEngine.java:309] [INFO] - Test script finished
+[11:25:12 - AWT-EventQueue-1] [ScriptRunner.java:430] [INFO] - Test script deactivated

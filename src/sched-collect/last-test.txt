@@ -1,0 +1,11 @@
+File: experiment.json
+Traceback (most recent call last):
+  File "/home/user/rpi_testbed_client/iot_testbed_client.py", line 659, in <module>
+    job, errs, warns = validate(tfile)
+  File "/home/user/rpi_testbed_client/iot_testbed_client.py", line 554, in validate
+    with jobFile.open('r') as fh:
+  File "/usr/lib/python3.7/pathlib.py", line 1186, in open
+    opener=self._opener)
+  File "/usr/lib/python3.7/pathlib.py", line 1039, in _opener
+    return self._accessor.open(self, flags, mode)
+FileNotFoundError: [Errno 2] No such file or directory: 'experiment.json'
